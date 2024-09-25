@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Tensoesctructura",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://apod.nasa.gov/apod/image/0211/terkezi_landsat7.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Lámpara de escritorio",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Carátula de vinilo",
+        "fecha": "2023",
+        "signo": "Editorial",
+        "foto": "https://apod.nasa.gov/apod/image/0004/bluemarble2k.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Espacio expositivo emprendedores",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://apod.nasa.gov/apod/image/0104/m51_hst.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Solarigrafía",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/0109/xtej1118path.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "papa",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/0108/perseids97_rickjoe.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Noche",
+        "fecha": "2022",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/9803/dustdt_apollo17.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Nieve",
+        "fecha": "2022",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/9809/clusters_hst.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "dobby",
+        "fecha": "2023",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "chiloe",
+        "fecha": "2023",
+        "signo": "fotografia",
+        "foto": "https://apod.nasa.gov/apod/image/0102/hubblex_hst.jpg",
+        "github": "https://github.com/terila"
+    },
+ ]
