@@ -10,13 +10,12 @@
             <h1>Portafolio de Diseño</h1>
             <h2></h2>
             <a href="index.html">&larr; VOLVER</a>
-
         </header>
 
         <main></main>
 
         <script>
-            var x = new URLSearchParams(window.location.search).get('data');
+            var x = new URLSearchParams(window.location.search).get("data");
             console.log("Valor de x:", x);
             //unas variables que no varían, que son constantes:
 
@@ -39,20 +38,15 @@
                 const data = await consulta.json();
                 console.log(data);
 
-                if(x){
-
-                principal.innerHTML +=`<h3>${data[x].nombre}</h3><p>${data[x].fecha}</p><p>${data[x].descripcion}</p><img src="${data[x].foto}">`;
-            }
-                else {
-                    window.location.href= 'index.html';
+                if (x) {
+                    principal.innerHTML += `<h3>${data[x].nombre}</h3><p>${data[x].fecha}</p><p>${data[x].descripcion}</p><img src="${data[x].foto}">`;
+                } else {
+                    window.location.href = "index.html";
                 }
             }
             astros().catch((error) => console.error(error));
 
             //lo que sigue es una función que ejecuto dentro de astros()
-
-            var valor;
-
         </script>
     </body>
 </html>
