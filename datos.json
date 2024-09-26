@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Tensoesctructura",
+        "fecha": "2022",
+        "signo": "Industrial",
+        "descripcion": "Silla de 50cm x 50cm la cual tenía que tener la que se debía guiar por el principio de la tensoestructura siendo esta su principal carácteristica, y pudiendo soportar 50kg.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/WhatsApp%20Image%202022-11-27%20at%204.05.27%20PM%20(1).jpeg?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Lámpara de escritorio",
+        "fecha": "2022",
+        "signo": "Industrial",
+        "descripcion": "Lámpara de escritorio de estilo cyber punk hecha con 3 materiales, uno laminar, uno que se pudiera moldear o aplique en un molde, y uno que venga en formato lineal.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/steam%20lamp.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Carátula de vinilo",
+        "fecha": "2023",
+        "signo": "Editorial",
+        "descripcion": "Cáratula de vinilo desarrollada en torno a la intérprete Mahani Teave, originaria de Isla de Pascua, siendo estaas las plantillas que utilice para crear la carátula.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/cara%CC%81tula.jpg?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Espacio expositivo emprendedores",
+        "fecha": "2022",
+        "signo": "Industrial",
+        "descripcion": "Espacio expositivo modular para los emprendedores de puente alto, el cual no tuviera tanta dificultad de transporte.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/WhatsApp%20Image%202022-05-26%20at%2012.41.21%20PM.jpeg?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Solarigrafía",
+        "fecha": "2024",
+        "signo": "Fotografia",
+        "descripcion": "Imagen del recorrido del sol durante una semana en una cámara hecha de latas de bebidas con un papel de fotografía en el interior.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/005%20Copy.JPG?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Papá",
+        "fecha": "2024",
+        "signo": "Fotografia",
+        "descripcion": "Imagen de doble exposición sacada con una cámara de cartón, y rollo fotográfico.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/papo%20doble.jpg?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Noche",
+        "fecha": "2022",
+        "signo": "Fotografia",
+        "descripcion": "Imagen de larga exposición coon movimiento de noche.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/85770008.JPG?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Nieve",
+        "fecha": "2022",
+        "signo": "Fotografia",
+        "descripcion": "Imagen de la floja en la nieve.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/01050005.JPG?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Dobby",
+        "fecha": "2023",
+        "signo": "Fotografia",
+        "descripcion": "Mi perro en la playa.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/31690026.JPG?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Chiloé",
+        "fecha": "2023",
+        "signo": "Fotografia",
+        "descripcion": "Imágen de mis amigos en un faro de nuestro mochileo por Chiloé en cámara análoga.",
+        "foto": "https://github.com/terila/dno096-08/blob/main/30350009.JPG?raw=true",
+        "github": "https://github.com/terila"
+    }
+]
